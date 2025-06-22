@@ -40,5 +40,27 @@ Typgraphy
 ### Importance of identifying design properties of a mock up design
 Identifying design properties of a mockup is crucial because it ensures consistency, guides development, and aligns the final product with user expectations. It helps translate visual elements (like colors, spacing, typography, and layout) into accurate code, reducing guesswork and improving UI/UX quality.
 
+##Project Roles and Responsibilities
+**Project Manager**  
+Oversees timeline, coordinates team, manages deliverables.
 
+**Frontend Developers**  
+Implements UI components and ensures responsive design.
 
+**Backend Developers**  
+Builds APIs, manages the database, and implements business logic.
+
+**Designers**  
+Create mockups, maintain the design system, and ensure UX quality.
+
+**QA/Testers**  
+Write test cases, perform testing, and report bugs.
+
+**DevOps Engineers**  
+Manage deployment, CI/CD pipeline, and server infrastructure.
+
+**Product Owner**  
+Defines requirements, prioritizes features, and represents stakeholders.
+
+**Scrum Master**  
+Facilitates agile processes, removes blockers, and organizes meetings.
