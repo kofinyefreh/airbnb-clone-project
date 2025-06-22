@@ -66,7 +66,6 @@ Defines requirements, prioritizes features, and represents stakeholders.
 Facilitates agile processes, removes blockers, and organizes meetings.
 
 ## UI Component Patterns
-Each component will have to contain the features listed under each component.
 **Navbar**
 - Logo
 - Search bar
