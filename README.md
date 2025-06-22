@@ -64,3 +64,27 @@ Defines requirements, prioritizes features, and represents stakeholders.
 
 **Scrum Master**  
 Facilitates agile processes, removes blockers, and organizes meetings.
+
+## UI Component Patterns
+Each component will have to contain the features listed under each component.
+**Navbar**
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+
+**Property Card**
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+
+**Footer**
+- Site links
+- Company information
+- Social media links
+- Copyright information
+
+
+
+
